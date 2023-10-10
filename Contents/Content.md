@@ -1,4 +1,4 @@
-# Contents | **[Batch(2023)](Contents/Batch(2023).md)** 
+# Contents
 
 ### Part A
 
@@ -52,6 +52,5 @@
 - **Awareness of Various Codes and Standards governing Infrastructure Development**
 - [Presentation 1](pdf/Awareness_of_various_codes.pdf)
 
-
- ### [Assignments (2023 class)](Assignment(2023).md)
+### [Assignments (2023 class)](Assignment(2023).md)
 
