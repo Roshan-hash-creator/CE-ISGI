@@ -53,5 +53,5 @@
 - [Presentation 1](pdf/Awareness_of_various_codes.pdf)
 
 ### Assignment Batch (2022-2026)
-- [Earthquake Resistant Technique](pdf/Awareness_of_various_codes.pdf)
+- [Earthquake Resistant Technique](pdf/Earthquake Resistance Technique.pdf)
 
