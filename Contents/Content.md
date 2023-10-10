@@ -52,10 +52,6 @@
 - **Awareness of Various Codes and Standards governing Infrastructure Development**
 - [Presentation 1](pdf/Awareness_of_various_codes.pdf)
 
-<h6 style="text-align='center'; Background-color: #EBEBEB">Assignment Batch (2022-2026)</h6>
-- [Presentation 1](pdf/Awareness_of_various_codes.pdf)
-- [Presentation 1](pdf/Awareness_of_various_codes.pdf)
-- [Presentation 1](pdf/Awareness_of_various_codes.pdf)
-- [Presentation 1](pdf/Awareness_of_various_codes.pdf)
-- [Presentation 1](pdf/Awareness_of_various_codes.pdf)
-- [Presentation 1](pdf/Awareness_of_various_codes.pdf)
+### Assignment Batch (2022-2026)
+- [Earthquake Resistant Technique](pdf/Awareness_of_various_codes.pdf)
+
